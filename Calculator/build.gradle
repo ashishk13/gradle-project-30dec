@@ -6,7 +6,7 @@ plugins {
 }
 
 apply plugin: JavaPlugin//'java'
-apply plugin: 'war'
+//apply plugin: 'war'
 apply plugin: 'java-gradle-plugin'
 apply plugin: 'eclipse'
 apply plugin: 'maven'
